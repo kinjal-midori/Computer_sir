@@ -8,6 +8,11 @@
     position: absolute;
     margin:0;
 }
+h1{
+    color: rgb(255,255,255);
+    text-align: centre;
+    margin:20px;
+}
 .box{
     background-color: rgb(68, 68, 68);
     width: 600px;
